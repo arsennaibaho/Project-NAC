@@ -105,21 +105,9 @@ Turbo Intruder akan mengirim 30 request secara paralel sehingga server mencatat 
 ## 5. Flag (Evidence)
 
 Berikut adalah bukti bahwa 1 akun dapat melakukan lebih dari 1 kali like pada ulasan suatu produk:
+## e6334118280c7b75de8e2ef6a11bb172b2e34f13
 <img width="1282" height="827" alt="image" src="https://github.com/user-attachments/assets/b8cb0c76-833c-4676-9b78-c0349695da84" />
+<img width="1717" height="129" alt="image" src="https://github.com/user-attachments/assets/c07e1157-fce8-4335-9737-5bd54f5d5e65" />
 
 
 ---
-
-## 6. Dampak
-
-* Bypass pembatasan like per user
-* Manipulasi rating produk
-* Indikasi kelemahan race condition pada validasi server
-
----
-
-## 7. Mitigasi
-
-* Gunakan locking mechanism pada database
-* Terapkan transaksi atomik saat validasi dan update like
-* Tambahkan server-side rate limitingbuat ini 
