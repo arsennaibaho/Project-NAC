@@ -1,8 +1,8 @@
-# Proof of Concept: Multiple Likes Race Condition
+# Proof of Concept: Multiple Likes 
 
 **Target:** OWASP Juice Shop
 
-**Category:** Race Condition / Broken Access Control
+**Category:** Broken Anti Automation
 
 ---
 
